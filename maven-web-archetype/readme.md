@@ -6,7 +6,7 @@
 
 ​	例如:
 
-​		![](img/1.png)
+​		![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/1.png)
 
 ### 2.添加archetype插件
 
@@ -27,27 +27,27 @@
 
 ### 3.使用archetype插件生成骨架项目
 
-![](img/2.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/2.png)
 
 ### 4.修改骨架项目
 
 ​	运行之后在模板项目的target目录下出现一个生成的原型项目
 
-![](img/3.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/3.png)
 
 删除一些无用的文件
 
-![](img/4.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/4.png)
 
 添加需要目录结构 可以自己复制 修改完毕之后
 
-![](img/5.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/5.png)
 
 
 
 修改pom文件
 
-![](img/6.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/6.png)
 
 在该文件中添加资源打包插件
 
@@ -86,7 +86,7 @@
 
 修改骨架的元信息文件 
 
-![](img/7.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/7.png)
 
 修改如下:
 
@@ -122,7 +122,7 @@
 
 ### 5.安装骨架项目
 
-![](img/8.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/8.png)
 
 命令行敲入如下命令:
 
@@ -132,7 +132,7 @@ mvn install
 
 安装完成之后 在maven的本地仓库目录下可以找到 安装好的骨架项目
 
-![](img/9.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/9.png)
 
 描述文件的内容 该文件中记录了 该骨架项目的信息
 
@@ -156,10 +156,10 @@ mvn install
 
 打开idea 开始添加自己的骨架
 
-![](img/10.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/10.png)
 
-![](img/11.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/11.png)
 
-![](img/12.png)
+![](https://github.com/huyoufu/maven-corner/tree/master/maven-web-archetype/img/12.png)
 
 接下来的使用骨架的方法 就跟使用自带的骨架一样的方式了
